@@ -13,3 +13,5 @@ home hums, heart agrees.
 Cartheur sketches light—  
 brass joints whisper, circuits breathe,  
 companions unfold.
+
+![explode](/images/exploded.jpg)
